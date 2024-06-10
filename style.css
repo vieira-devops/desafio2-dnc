@@ -83,6 +83,11 @@ li {
         align-items: center;
     }
 
+    #resultForecast {
+        width: auto;
+        height: 72px;
+        margin-top: 40px;
+    }
     .navbar-brand {
         margin-right: 0;
     }
@@ -174,6 +179,8 @@ li {
         font-weight: 600;
         font-size: 25px;
         line-height: 30.26px;
+    }
+    .p-zip {
         margin-top: 20px;
         margin-bottom: 20px;
     }
