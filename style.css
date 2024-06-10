@@ -96,6 +96,11 @@ li {
         text-align: center;
     }
 
+    #returnForecast {
+        text-align: center;
+        margin-top: 20px;
+    }
+
     .divConteudoBp {
         width: 879px;
         padding: 0;
